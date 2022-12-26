@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding and lately I'm into sneakers
 - 🌱 I’m currently learning NodeJS && Python
 - 📫 Discord: Galimba03#3828
-- 🐦 Twitter: 
+- 🐦 Twitter: Banned :/ -> Waiting Musk to reply to my email
