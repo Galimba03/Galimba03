@@ -6,9 +6,9 @@ I'm a full-time Computer Science Engineer student at Politecnico di Milano and i
 
 <p align="left"> 
     <a href="https://github.com/Galimba03?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Galimba03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/Galimba03?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Galimba03?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
@@ -31,6 +31,4 @@ I'm a full-time Computer Science Engineer student at Politecnico di Milano and i
 
 ### 📊 Statistics
 
-<div align="center">
 ![Galimba's GitHub stats](https://github-readme-stats.vercel.app/api?username=galimba03&show_icons=true&theme=dark)
-</div>
