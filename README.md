@@ -15,7 +15,7 @@ I'm a full-time Computer Science Engineer student at Politecnico di Milano and i
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />[webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />[webdevplaylist]
 
 [<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />]
