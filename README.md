@@ -2,7 +2,7 @@
 
 **`Gritter | Professional Anime Watcher`**
 
-<p align="center">📚 Software engineer @ PoliMI 📚</p>
+<h2 align="center">📚 Software engineer @ PoliMI 📚</h2>
 
 <p align="left"> 
     <a href="https://github.com/Galimba03?tab=followers">
