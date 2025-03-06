@@ -2,7 +2,8 @@
 
 **`Gritter | Professional Anime Watcher`**
 
-I'm a full-time Computer Science Engineering student at Politecnico di Milano, and in my free time, I'm a full-stack coder, lately interested in the front-side programming. I'm also a fan of animation, especially anime. I enjoy running, and my dream is to complete a marathon one day—looking forward to it!
+## 📚 Software engineer @ PoliMI 📚
+## E = MC², but my code = WTF 🤔
 
 <p align="left"> 
     <a href="https://github.com/Galimba03?tab=followers">
