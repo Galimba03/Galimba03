@@ -2,8 +2,8 @@
 
 **`Gritter | Professional Anime Watcher`**
 
-## 📚 Software engineer @ PoliMI 📚
-## E = MC², but my code = WTF 🤔
+### 📚 Software engineer @ PoliMI 📚
+### E = MC², but my code = WTF 🤔
 
 <p align="left"> 
     <a href="https://github.com/Galimba03?tab=followers">
