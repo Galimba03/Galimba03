@@ -1,6 +1,6 @@
 # 🥥 Matteo Galimberti - Aka: Galimba03
 
-**`Gritter | Professional Anime Watcher`**
+**`Board games lover | Anime geek`**
 
 <h4 align="left">📚 Software engineer @ PoliMI 📚</h4>
 
@@ -17,9 +17,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Bash" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <a href="https://github.com/Galimba03#gh-dark-mode-only">
     <img align="left" alt="GitHub (Dark)" width="32px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 </a>
@@ -40,9 +38,3 @@
 <img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br />
-
-#
-
-### 📊 Statistics
-
-![Galimba's GitHub stats](https://github-readme-stats.vercel.app/api?username=galimba03&show_icons=true&theme=dark)
